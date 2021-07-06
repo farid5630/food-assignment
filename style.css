@@ -82,6 +82,46 @@ span{
     width: 100%;  
     height: 250px;  
 }
+.extra{
+    height: 350px;
+    margin-bottom: 25px;
+    margin: 5%;
+    display: flex;
+}
+.new{
+    float: left;
+    width: 50%;
+
+
+}
+.new img{
+    width: 100%;
+    height: 350px;
+}
+.new h1{
+    font-size: 28px;
+    color: darkorange;
+}
+.new p{
+    color: black;
+}
+.extra-bg{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-size: cover;
+
+    padding: 15px;
+    color: brown;
+
+}
+.new a{
+    text-decoration: none;
+    padding: 10px 25px;
+    background-image: linear-gradient(red, orange, yellow);
+    border-radius: 10px;
+    color: darkblue;
+    font-weight: 900;
+    font-size: 22px;
+}
 .section5{
     width: 80%;
     height: 170px;
